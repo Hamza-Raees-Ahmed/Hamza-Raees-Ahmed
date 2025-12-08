@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning New teachnologies
 - 🌱 I’m currently learning MERN Stack development
 - 💞️ I’m looking to collaborate on Dynamic team
-- 📫 How to reach me  hamzaqazi2805@gmail.com
+- 📫 How to reach me  hamzaqazi2508@gmail.com
 
 
 <!---
